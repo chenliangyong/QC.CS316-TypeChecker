@@ -1,0 +1,13 @@
+Display return types of functions:
+
+{test_1=boolean}
+
+Display parameter types of functions:
+
+{test_1={n=int}}
+
+Display parameter types of functions by position:
+
+{test_1={1=int}}
+
+All function definitions have passed type checking.

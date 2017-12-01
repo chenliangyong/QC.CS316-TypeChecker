@@ -1,0 +1,13 @@
+Display return types of functions:
+
+{fact=int, test=int, test1=int, fib=int}
+
+Display parameter types of functions:
+
+{fact={n=int}, test={x=int, y=int}, test1={i=int, j=int, k=int}, fib={n=int}}
+
+Display parameter types of functions by position:
+
+{fact={1=int}, test={1=int, 2=int}, test1={1=int, 2=int, 3=int}, fib={1=int}}
+
+All function definitions have passed type checking.

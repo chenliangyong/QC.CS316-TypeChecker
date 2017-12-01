@@ -1,0 +1,13 @@
+Display return types of functions:
+
+{square=int, fact=int, cylinder_volume=float, test=int, pi=float, square1=float, fib=int, test_cond=int}
+
+Display parameter types of functions:
+
+{square={x=int}, fact={n=int}, cylinder_volume={length=float, radius=float}, test={x=int, y=int}, square1={x=float}, fib={n=int}, test_cond={n=int}}
+
+Display parameter types of functions by position:
+
+{square={1=int}, fact={1=int}, cylinder_volume={1=float, 2=float}, test={1=int, 2=int}, square1={1=float}, fib={1=int}, test_cond={1=int}}
+
+All function definitions have passed type checking.

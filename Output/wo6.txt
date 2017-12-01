@@ -1,0 +1,15 @@
+Display return types of functions:
+
+{test_cond=int}
+
+Display parameter types of functions:
+
+{test_cond={n=int}}
+
+Display parameter types of functions by position:
+
+{test_cond={1=int}}
+
+Type Error: some arguments of + operator have incompatible types
+Type Error: incompatible types found in conditional expression
+Type Error: incompatible return type and body expression type in function test_cond

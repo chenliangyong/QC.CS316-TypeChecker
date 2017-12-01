@@ -1,0 +1,13 @@
+Display return types of functions:
+
+{arith_example=int, Bool_example=boolean}
+
+Display parameter types of functions:
+
+{arith_example={x1=int, x2=int, x3=int, x4=int, x5=int}, Bool_example={b2=boolean, b3=boolean, b4=boolean, b5=boolean, b1=boolean}}
+
+Display parameter types of functions by position:
+
+{arith_example={1=int, 2=int, 3=int, 4=int, 5=int}, Bool_example={1=boolean, 2=boolean, 3=boolean, 4=boolean, 5=boolean}}
+
+All function definitions have passed type checking.

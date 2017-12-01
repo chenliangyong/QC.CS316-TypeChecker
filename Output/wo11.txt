@@ -1,0 +1,14 @@
+Display return types of functions:
+
+{comp_test=boolean}
+
+Display parameter types of functions:
+
+{comp_test={i1=int, x=float, i2=int}}
+
+Display parameter types of functions by position:
+
+{comp_test={1=int, 2=int, 3=float}}
+
+Type Error: some arguments of and operator have incompatible types
+Type Error: incompatible return type and body expression type in function comp_test

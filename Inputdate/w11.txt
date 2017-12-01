@@ -1,0 +1,2 @@
+boolean comp_test(int i1, int i2, float x) =
+   (and (< i1 i2) (<= i1 i2) (> i1 x) (>= x i2) (+ i1 i2))

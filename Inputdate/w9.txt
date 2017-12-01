@@ -1,0 +1,14 @@
+int test1(int i, int j, int k) =
+    (* (fact i) (test i j) (fib k))
+    
+int fact(int n) =
+    if (= n 0) then 1
+    else (* n (fact (- n 1)))
+    
+int test(int x, int y) =
+    if (> x -0987) then +6453
+    else -1540
+    
+int fib(int n) =
+    if (<= n 1) then n
+    else (+ (fib (- n 1)) (fib (- n 2)))
